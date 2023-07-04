@@ -11,7 +11,9 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false"
   },
   "dependencies": {
+    "@unhead/vue": "^1.1.29",
     "axios": "^1.4.0",
+    "unhead": "^1.1.29",
     "vue": "^3.3.4",
     "vue-router": "^4.2.2",
     "vuex": "^4.0.2"
