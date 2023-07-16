@@ -1,4 +1,4 @@
-# Front End - Smart Home Control - Vue.js
+# VFull - Starter Kit
 
 ## Setup do projeto
 ```

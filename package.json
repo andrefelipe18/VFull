@@ -16,8 +16,7 @@
     "pinia": "^2.1.4",
     "unhead": "^1.1.29",
     "vue": "^3.3.4",
-    "vue-router": "^4.2.2",
-    "vuex": "^4.0.2"
+    "vue-router": "^4.2.2"
   },
   "devDependencies": {
     "@tsconfig/node18": "^2.0.1",
