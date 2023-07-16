@@ -11,11 +11,11 @@ export default defineConfig({
   plugins: [
     vue(),
     AutoImport({ 
-      imports: ['vue', 'vue-router', 'vuex', unheadVueComposablesImports],
-       dts: './auto-imports.d.ts',
+      imports: ['vue', 'vue-router', unheadVueComposablesImports, 'pinia'],
+       dts: './node_modules/.auto-imports-type/auto-imports.d.ts',
     }),
     Components({ 
-      dts: './components.d.ts',
+      dts: './node_modules/.auto-imports-type/components.d.ts',
      }),
   ],
   resolve: {

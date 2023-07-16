@@ -4,8 +4,8 @@
     "env.d.ts",
     "src/**/*",
     "src/**/*.vue",
-    "./auto-imports.d.ts",
-    "./components.d.ts"
+    "./node_modules/.auto-imports-type/auto-imports.d.ts",
+    "./node_modules/.auto-imports-type/components.d.ts"
   ],
   "exclude": ["src/**/__tests__/*"],
   "compilerOptions": {
