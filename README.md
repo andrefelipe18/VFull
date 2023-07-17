@@ -1,5 +1,4 @@
 # VFull - Starter Kit Vue 3 + Vite
-Coloca a imagem em um tamanho menor
 ![VFullLogo](./public/vfull.png)
 
 *VFull* is a heavily opinionated starter kit for Vue 3 powered by Vite. It comes with auto-importing features and leverages the latest and greatest features from Vue 3, Tailwind CSS, DaisyUI, TypeScript, Vue Router, Pinia, VueUse, UnHead, Axios, Unplugin Vue Components, Unplugin Auto Import, Vitest and Vue Test Utils configured
