@@ -3,15 +3,10 @@
 </script>
 
 <template>
-  <header>
-    <h1>VFull</h1>  
-  </header>
-  <div class="flex w-full justify-center items-center h-[60vh]">
-    <RouterView />
-  </div>
-
+    <div class="flex justify-center w-[100vw] h-[100vh]">
+      <RouterView />
+    </div>
 </template>
-
 <style scoped>
 
 </style>

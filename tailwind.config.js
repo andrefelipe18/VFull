@@ -6,7 +6,12 @@ module.exports = {
     './src/App.vue'
   ],
   theme: {
-    extend: {},
+    extend: {
+
+    },
+    fontFamily: {      
+      'sans': ['Poppins', 'sans-serif']
+    }
   },
   plugins: [
     require("daisyui"), 

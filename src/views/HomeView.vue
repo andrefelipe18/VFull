@@ -1,11 +1,8 @@
-<script setup >
-import { useCounterStore } from '@/stores/'
+<script setup lang="ts">
 
-const counterStore = useCounterStore();
 </script>
 <template>
-  <h1>Bem vindo ao VFull</h1>
-  <p>Contador: {{ counterStore.counter }}</p>
-  <p>Double Count: {{ counterStore.doubleCount }}</p>
-  <button @click="counterStore.increment">Incrementar</button>
+  <div class="container flex justify-center">
+    <HelloWorld />
+  </div>    
 </template>  

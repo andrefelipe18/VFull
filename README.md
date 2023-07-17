@@ -9,7 +9,7 @@ Coloca a imagem em um tamanho menor
 - [Pinia](https://pinia.esm.dev/)
 - [Vue Router](https://router.vuejs.org/)
 - [VueUse](https://vueuse.org/)
-- [UnHead](https://unhead.harlanzw.com/guide/getting-started/how-it-works)
+- [UnHead](https://unhead.harlanzw.com/)
 - [Axios](https://axios-http.com/)
 - [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components)
 - [Unplugin Auto Import](https://github.com/antfu/unplugin-auto-import)
