@@ -1,7 +1,10 @@
-# VFull - Starter Kit Vue 3
+# VFull - Starter Kit Vue 3 + Vite
+Coloca a imagem em um tamanho menor
+![VFullLogo](./public/vfull.png)
 
-Um starter kit para Vue 3 com Vite, Tailwind CSS, DaysiUI, TypeScript, Vue Router, Pinia, VueUse, UnHead, Axios, Unplugin Vue Components, Unplugin Auto Import, Vitest e Vue Test Utils configurados.
-### Quais pacotes veem instalados?
+*VFull* is a heavily opinionated starter kit for Vue 3 powered by Vite. It comes with auto-importing features and leverages the latest and greatest features from Vue 3, Tailwind CSS, DaisyUI, TypeScript, Vue Router, Pinia, VueUse, UnHead, Axios, Unplugin Vue Components, Unplugin Auto Import, Vitest and Vue Test Utils configured
+
+## Features
 - [Vue](https://vuejs.org/)
 - [Pinia](https://pinia.esm.dev/)
 - [Vue Router](https://router.vuejs.org/)
@@ -17,15 +20,19 @@ Um starter kit para Vue 3 com Vite, Tailwind CSS, DaysiUI, TypeScript, Vue Route
 - [DaysiUI](https://daisyui.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### Como usar?
-1. Clone o repositório ` git clone https://github.com/andrefelipe18/VFull.git `
-2. Instale as dependências com `npm install` ou `yarn install`
-3. Inicie o servidor de desenvolvimento com `npm run dev`
-4. Abra o navegador em `http://localhost:5173`
+### Quick Start
+```bash
+# Clone the repo
+git clone https://github.com/andrefelipe18/VFull.git my-app
 
-### Como testar?
-1. Para testar os componentes, execute `npm run test:unit`
-2. Os testes de unidade estão localizados em `@/components/__tests__/**`
+# Enter the project directory
+cd my-app
 
-### Como gerar uma build?
-1. Para gerar uma build de produção, execute `npm run build`
+# Instal the dependencies
+npm install
+
+# Lift Vite's development server
+npm run dev
+
+# Go to http://localhost:5173
+```
