@@ -4,20 +4,20 @@
 *VFull* is a heavily opinionated starter kit for Vue 3 powered by Vite. It comes with auto-importing features and leverages the latest and greatest features from Vue 3, Tailwind CSS, DaisyUI, TypeScript, Vue Router, Pinia, VueUse, UnHead, Axios, Unplugin Vue Components, Unplugin Auto Import, Vitest and Vue Test Utils configured
 
 ## Features
-- [Vue](https://vuejs.org/)
-- [Pinia](https://pinia.esm.dev/)
-- [Vue Router](https://router.vuejs.org/)
-- [VueUse](https://vueuse.org/)
-- [UnHead](https://unhead.harlanzw.com/)
-- [Axios](https://axios-http.com/)
-- [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components)
-- [Unplugin Auto Import](https://github.com/antfu/unplugin-auto-import)
-- [Vite](https://vitejs.dev/)
-- [Vitest](https://vitest.dev/guide/)
-- [Vue Test Utils](https://next.vue-test-utils.vuejs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [DaysiUI](https://daisyui.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+- 💚[Vue](https://vuejs.org/)
+- 🍍[Pinia](https://pinia.esm.dev/)
+- 🔄[Vue Router](https://router.vuejs.org/)
+- 👨🏽‍💻[VueUse](https://vueuse.org/)
+- 🤯[UnHead](https://unhead.harlanzw.com/)
+- 🤙🏽[Axios](https://axios-http.com/)
+- 🚗[Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components)
+- 🚘[Unplugin Auto Import](https://github.com/antfu/unplugin-auto-import)
+- ⚡[Vite](https://vitejs.dev/)
+- 🧪[Vitest](https://vitest.dev/guide/)
+- 🧪[Vue Test Utils](https://next.vue-test-utils.vuejs.org/)
+- 🤩[Tailwind CSS](https://tailwindcss.com/)
+- 🎨[DaysiUI](https://daisyui.com/)
+- 🆔[TypeScript](https://www.typescriptlang.org/)
 
 ### Quick Start
 ```bash
